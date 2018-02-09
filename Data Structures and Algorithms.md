@@ -716,9 +716,9 @@ p.pop();
 
 **Visualization**
 
-![MergeSort](Sorting/Animations/Merge_Sort.gif)
+![MergeSort](Sorting/Animations/Merge Sort.gif)
 
-![MergeSort](Sorting/Animations/Merge_Sort_2.gif)
+![MergeSort](Sorting/Animations/Merge Sort 2.gif)
 -------------------------------------------------------
 ### 4.5 Quicksort
 **Idea:**
